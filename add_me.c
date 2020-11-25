@@ -1,4 +1,4 @@
 #include <stdlib.h>
-int add_me(int x, int y) { 
+float add_me(int x, int y) { 
   return x + y
 } 
